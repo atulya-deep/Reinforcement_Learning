@@ -29,3 +29,7 @@ Design a system that can play Tic-Tac-Toe game against a human player with optim
 
 A ***Niryo Ned*** has been programmed to perform the task. The Robotic Arm is tasked with delivering optimal moves while playing against a human player.
 
+## K-armed Bandit
+he K-armed bandit (also known as the Multi-Armed Bandit problem) is a simple, yet powerful example of allocation of a limited set of resources over time and under uncertainty. It has been initially studied by Thompson (1933), who suggested a heuristic for navigating the exploration-exploitation dilemma
+
+![download (6)](https://github.com/atulya-deep/Reinforcement_Learning/assets/83969166/211e9000-ec29-4f0d-a5e5-b0348635b755)
